@@ -1,2 +1,2 @@
-# javaKamp2022 
-(1.ÖDEV)
+# javaKamp2022
+#ÖDEVLER
